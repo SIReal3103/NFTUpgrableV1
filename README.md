@@ -1,9 +1,10 @@
 # NFTUpgrableV1
 
+Deploy:
 ```sh
 npx hardhat run scripts/deploy.js
 ```
-ie:
+Upgrade:
 ```
 npx hardhat run scripts/upgrade.js
 ```
